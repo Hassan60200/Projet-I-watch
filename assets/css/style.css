@@ -1,0 +1,46 @@
+.footer{
+    font-size: 10px;
+    padding-top: -5px;
+}
+
+h1{
+    font-size: 15px;
+}
+
+#world{
+    padding-top: 15px;
+}
+
+#reseaux{
+    height:60px;
+    width: 60px;
+}
+
+#reseaux2{
+    height:70px;
+    width: 70px;
+}
+
+#reseaux3{
+    height:55px;
+    width: 55px;
+}
+
+#paid{
+    height:70px;
+    width: 70px;
+}
+
+#flag{
+    height:45px;
+    width: 28px;
+}
+
+.card1{
+    display: none;
+    float:left;
+    width: 20%;
+}
+body{
+    background-color: #c8c8ca;
+}
